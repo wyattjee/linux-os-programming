@@ -1,5 +1,5 @@
 # linux-os-programming
-![封面](JianyuLogo/LINUX_OS_PROGRAMMING.png)
+![封面](https://github.com/wyattjee/linux-os-programming/blob/master/JianYuLogo/LINUX_OS_PROGRAMMING.png)
 这是煎鱼大魔王出品《LINUX系统编程》中的源代码
 
 所有代码由vim编写，在Archlinux下使用GCC编译调试
