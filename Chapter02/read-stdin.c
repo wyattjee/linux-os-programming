@@ -1,3 +1,21 @@
+/*
+ * =============================================================================
+ *
+ *       Filename:  read-stdin.c
+ *
+ *    Description:  read from standard input using read()
+ *
+ *        Version:  1.0
+ *        Created:  08/13/2016 01:13:39 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Wyatt Jee (WJ), bluesorrow221@gmail.com
+ *   Organization:  JianYuChuPing
+ *
+ * =============================================================================
+ */
+
 #include <unistd.h>
 
 #include <stdlib.h>

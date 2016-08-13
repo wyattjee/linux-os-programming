@@ -1,3 +1,21 @@
+/*
+ * =============================================================================
+ *
+ *       Filename:  open-file.c
+ *
+ *    Description:  open a file using open()
+ *
+ *        Version:  1.0
+ *        Created:  08/13/2016 01:13:01 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Wyatt Jee (WJ), bluesorrow221@gmail.com
+ *   Organization:  JianYuChuPing
+ *
+ * =============================================================================
+ */
+
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>

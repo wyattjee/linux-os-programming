@@ -1,3 +1,21 @@
+/*
+ * =============================================================================
+ *
+ *       Filename:  read-file.c
+ *
+ *    Description:  read from a file using read()
+ *
+ *        Version:  1.0
+ *        Created:  08/13/2016 01:14:50 PM
+ *       Revision:  none
+ *       Compiler:  gcc
+ *
+ *         Author:  Wyatt Jee (WJ), bluesorrow221@gmail.com
+ *   Organization:  JianYuChuPing
+ *
+ * =============================================================================
+ */
+
 #include <sys/stat.h>
 #include <sys/types.h>
 #include <fcntl.h>
