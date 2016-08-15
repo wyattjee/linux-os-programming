@@ -32,7 +32,7 @@
 #include <getopt.h>
 #include <ctype.h>
 
-static void usage_error(char *progname, char *msg, int opt);
+static void usage_error(char *progname);
 
 int main(int argc, char *argv[])
 {
@@ -55,13 +55,13 @@ int main(int argc, char *argv[])
 
         
     if (argc < 2) {
-        usage_error(argv[0], NULL, 0);
+        usage_error(argv[0]);
     }
 
     while ((opt = getopt_long(argc, argv, shortopts, longopts, NULL)) != -1) {
         switch (opt) {
         case 'h':
-            usage_error(argv[0], NULL, 0);
+            usage_error(argv[0]);
         case 'o':
             flag_lseek = 1;
             offset = (off_t) strtol(optarg, NULL, 10);
@@ -86,12 +86,12 @@ int main(int argc, char *argv[])
     
     if ( flag_write && flag_read) {
         fprintf(stderr, "don't using read and write at same time\n");
-        usage_error(argv[0], NULL, 0);
+        usage_error(argv[0]);
     }
 
     if (argv[optind] == NULL) {
         printf("Choose a file to open\n\n");
-        usage_error(argv[0], NULL, 0);
+        usage_error(argv[0]);
     }
 
     fd = open(argv[optind], O_RDWR | O_CREAT, 
@@ -145,10 +145,8 @@ int main(int argc, char *argv[])
  * =============================================================================
  */
 
-static void usage_error(char *progname, char *msg, int opt)
+static void usage_error(char *progname)
 {
-    if (msg != NULL && opt != 0)
-        fprintf(stderr, "%s (-%c)\n", msg, (char)opt);
     fprintf(stderr, "Usage: %s [optrion] file\n", progname);
     fprintf(stderr, "  -h, --help        display this help and exit\n");
     fprintf(stderr, "  -o, --offset      set offset\n");
