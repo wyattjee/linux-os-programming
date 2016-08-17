@@ -12,7 +12,7 @@
 
 本教程的视频版请看这：[LINUX系统编程视频版——现在为空链]()
 
-![封面](https://github.com/wyattjee/linux-os-programming/blob/master/JianYuLogo/LINUX_OS_PROGRAMMING.png)
+![封面](https://github.com/wyattjee/linux-os-programming/blob/master/cover.png)
 
 ## 关于本书
 
