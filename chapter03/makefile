@@ -5,7 +5,7 @@ EXE = set-flags \
 
 all : ${EXE}
 
-${EXE} : ${INC_LIB}
+${EXE} : ${LIB}
 
 clean :
 	${RM} ${EXE}
