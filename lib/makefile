@@ -1,11 +1,11 @@
 include ../makefile.inc
 
-all : ${INC_LIB}
+all : ${LIB}
 
-${INC_LIB} : *.c
+${LIB} : *.c 
 	${CC} -c -g ${CFLAGS} *.c
 	${RM} ${INC_LIB}
-	${AR} rs {INC_LIB} *.o
+	${AR} rs ${LIB} *.o
 
 clean :
-	${RM} *.o ${INC_LIB}
+	${RM} *.o ${LIB}
