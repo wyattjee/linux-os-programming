@@ -1,48 +1,5 @@
 # LINUX系统编程——煎鱼出品
 
-```
-                                                                                
-                                    ..'''...                                    
-                            .,lxO0KMWK00NMkO0K0Oxl,.                            
-                         ;xK0xl:''OWxoookMl''''':lx0Kx;                         
-                      :OXxc''''''kWxoooooNK''''''''''cxXO:                      
-                   .dNk:''''''''dMkooooookMl'''''''''''':kNd.                   
-                 .xNd,'''''''''cW0ooooooooXX,''''''''''''',dNd.                 
-                :Nk,'''''''''';NXoooooooooxMd''''''''''''''',kN:                
-               xNc''''',:lodxkXMXKK00OOkxdoKW;''''''''''''''''cNx               
-              0X;':okKXXK0OkkKMkxxxkkkO0KXNNMKo:''''''''''''''';X0              
-             OWx0NXOxdooooooxM0oooooooooooookMXKNKxl,''''''''''';XO             
-            lMN0xoooooooooooXNdooooooooooooooKWdodkKN0d;''''''''':Wo            
-           .W0ooooooooOXXK0XMKdoooooooooooooodNNdoooox0NKd,''''';0MW.           
-           oMdoooooodNK;....,0WdooooooooooooooxWKoooooooxKNOc',dW0dMl           
-           0NoooooooOM;...;ld0MKoooooooooooooookM0oooooooooONKXXdllNO           
-           NKoooooooxWOkK0xc,dMkooooooooooooooooOMOooooooooONXXNkllXK           
-           XXooooooooxXWklldKXxoooooooooooooooooo0Mkooood0NXxllxNNxX0           
-           kWoooooooooooxXMkdooooooooooooooooooooo0MkdOXNOdllllllkWMd           
-           ,MkoooooooooooNNoooooooooooooooooooooodkNMW0dllllllllllkM,           
-            0NoooooooooodMKooooooooooooodddxkO0XNX0kOMklllllllllllN0            
-            .W0oooooooooxM0kOKXXXXXXXXXXXXK00kxdlllllkWOlllllllll0N.            
-             ,WOoooooox0NMX0kxolllllllllllllllllllllllxWKollllllOW,             
-              ,W0ookKNKkOMxlllllllllllllllllllllllllllloXNdllll0N'              
-               .KNNXkollxMkllllllllllllllllllllllllllllll0WkldN0.               
-                 lN0ollldMOlllllllllllllllllllllllllllllllxWNNc                 
-                   oN0dllWKlllllllllllllllllllllllllllllld0No                   
-                     cKXOXWllllllllllllllllllllllllllloOXK:                     
-                       .l0MKkollllllllllllllllllllok0X0l.                       
-                           ,lOKXKOkxddooooddxkO0XKkl,                           
-                                .,cldxkkkkxdlc,.                                
-                                                                                
-      ..     .             .
-   ;''c',''';,;';        ,:lkccc;:         .:.   ol   ';.        :cllllllc: 
-   .olooooc'l;:dl      ;coo'',;;;o'.       ;,c   ll   l';       .;l      ll 
-   ',Kolxll.,l,'l      'x;,..od,..::.      .cc'':oo;''c:.        cc::::::cc 
-   ',Koldol.:l,'l       llcccl'lcoo,'       '....ll....'       ,,;ccc.'clc;,' 
-   ',d'dc:l o,;;;       l:,,'o::,'l;.      oc    ll   .cl     .;l..c,cl;,..ol 
-    oc'ld:.:o,kl       .,olcoxlccclc.      l:'...xd...,;l     .;l  :,cl;'  ol 
-   l:,  :o :l.';l     .;,,,,,,,,,,,,;.     .,;;;;;;;;;;,.      ;;cc:; .,:cc;, 
-
-```
-
 **努力更新中。。。**
 **努力更新中。。。**
 **努力更新中。。。**
