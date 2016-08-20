@@ -1,7 +1,8 @@
 include ../makefile.inc
 
 EXE = set-flags \
-	  set-lock 
+	  set-lock \
+	  scatter-gather-io
 
 all : ${EXE}
 
