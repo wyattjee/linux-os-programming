@@ -23,7 +23,11 @@ Admin\)的相关知识，所以本书从Linux的系统编程为切入点了解Li
 此外本内容也是为《LINUX系统编程》视频的教程文字版，旨在补充视频教程。本书的全部内容都在Linux环境下完成，logo、书、视频等也是使用Linux下的原生软件创作。
 
 ## 本书对象
-本书面向的对象不限，但前提是有一定的Linux系统的使用经历，并且有一定的C语言基础。你可以使用自己喜欢的Linux发行版，我主要推荐使用Ubuntu或Archlinux作为学习开发的环境。
+本书面向的对象不限，但前提是有一定的Linux系统的使用经历，并且有一定的C语言基础。你可以使用自己喜欢的Linux发行版，我主要推荐使用Fedora、Ubuntu或Archlinux作为学习开发的环境。
+
+* Fedora 
+   > 虽然Fedora上是Redhat试用新技术的地方，但还是十分稳定的，安装方便，Linux之父Linus也是使用Fedora的。
+
 * Ubuntu
 
    > 在Linux用户占有一定数量，相关学习资源多，而且是大多开发商开发的平台，当然Google的Goobuntu也是它的衍生版。
